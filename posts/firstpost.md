@@ -1,26 +1,18 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: Here is my first post!.
+description: This is my first post on my blog, i hope to continue this blog ritual.
 date: 2018-05-01
 tags:
-  - another-tag
+  - first-post
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+After a lot of fiddling around with the thought to start writing, i've finally committed to write my first blog post. The inspiration being a lengthy list of blog posts, ending with [this post](https://sheep.horse/2017/4/so_you_want_to_start_an_unpopular_blog.html) which someone linked to on their HackerNews comment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+I hope to keep writing and posting here frequently. Theres no particular topic i'll follow here, just my random musings. My first aim being to develop a writing habit.
 
-## Section Header
+## Technical details of the blog
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Its hosted on netlify with a custom domain. I use [11ty](https://11ty.dev) as the static site generator, with eleventy-starter-blog template.
+The site is barebones intentionally, i may add other features or mod the styles as required.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+See you next time! 👀

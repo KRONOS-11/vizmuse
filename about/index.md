@@ -7,4 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+I'm here to eat your brains. HeHe jk.
+Watch this space.
