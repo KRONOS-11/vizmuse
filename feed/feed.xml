@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>vizmuse</title>
+	<subtitle>Here lie my random musings.</subtitle>
+	
+	<link href="https://vizmuse.com/eleventy-base-blog/feed/feed.xml" rel="self"/>
+	<link href="https://vizmuse.com/"/>
+	<updated>2018-05-01T00:00:00-00:00</updated>
+	<id>https://vizmuse.com/</id>
+	<author>
+		<name>vishal</name>
+		<email>iamvg 009 [at] gmail [com]</email>
+	</author>
+	
+	<entry>
+		<title>Here is my first post!.</title>
+		<link href="https://vizmuse.com/eleventy-base-blog/posts/firstpost/"/>
+		<updated>2018-05-01T00:00:00-00:00</updated>
+		<id>https://vizmuse.com/eleventy-base-blog/posts/firstpost/</id>
+		<content type="html">&lt;p&gt;After a lot of fiddling around with the thought to start writing, i&#39;ve finally committed to write my first blog post. The inspiration being a lengthy list of blog posts, ending with &lt;a href=&quot;https://sheep.horse/2017/4/so_you_want_to_start_an_unpopular_blog.html&quot;&gt;this post&lt;/a&gt; which someone linked to on their HackerNews comment.&lt;/p&gt;
+&lt;p&gt;I hope to keep writing and posting here frequently. Theres no particular topic i&#39;ll follow here, just my random musings. My first aim being to develop a writing habit.&lt;/p&gt;
+&lt;h2 id=&quot;technical-details-of-the-blog&quot;&gt;Technical details of the blog &lt;a class=&quot;direct-link&quot; href=&quot;#technical-details-of-the-blog&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Its hosted on netlify with a custom domain. I use &lt;a href=&quot;https://11ty.dev/&quot;&gt;11ty&lt;/a&gt; as the static site generator, with eleventy-starter-blog template.&lt;br&gt;
+The site is barebones intentionally, i may add other features or mod the styles as required.&lt;/p&gt;
+&lt;p&gt;See you next time! 👀&lt;/p&gt;
+</content>
+	</entry>
+</feed>
