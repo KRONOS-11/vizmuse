@@ -1,7 +1,7 @@
 ---
 title: Here is my first post!.
 description: This is my first post on my blog, i hope to continue this blog ritual.
-date: 2020-05-20
+date: 2020-07-20
 tags:
   - first-post
 layout: layouts/post.njk
